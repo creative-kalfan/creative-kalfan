@@ -1,6 +1,25 @@
 ## Hi there 👋
 # 💫 About Me:
-AI & Machine Learning Engineer specializing in NLP,<br>LLM applications, and end to end ML pipelines.<br>Experienced in Transformers, BERT/GPT models, RAG pipelines, embeddings, and LLM fine tuning.<br><br>Proficient in Python, TensorFlow, PyTorch, Scikit Learn, LangChain, FAISS, and REST API deployment.<br>
+
+🎓 B.Tech Graduate passionate about Data Analytics, Python Development, AI/ML, and Backend Engineering.
+
+📊 Experienced in SQL, Python, Power BI, Data Visualization, Dashboard Development, ETL Workflows, and Business Analytics.
+
+🤖 Exploring Machine Learning, Predictive Analytics, Deep Learning, and Generative AI applications.
+
+⚡ Building data-driven solutions, backend APIs, automation tools, and analytical dashboards.
+
+🌱 Currently learning Data Structures & Algorithms, System Design fundamentals, and scalable software engineering practices.
+
+🎯 Aspiring Data Analyst, Business Analyst, AI Engineer, and Software Engineer.
+
+
+# 🚀 Featured Projects
+
+### Credit Risk Delinquency Analytics Dashboard
+- Power BI, Python, SQL
+- Built a BFSI-focused dashboard for delinquency analysis and risk segmentation.
+
 
 
 # 💻 Tech Stack:
@@ -36,22 +55,7 @@ AI & Machine Learning Engineer specializing in NLP,<br>LLM applications, and end
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=creative-kalfan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=creative-kalfan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=creative-kalfan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=creative-kalfan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=creative-kalfan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=creative-kalfan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
