@@ -4,8 +4,6 @@ AI & Machine Learning Engineer specializing in NLP,<br>LLM applications, and end
 
 
 # 💻 Tech Stack:
-```md
-# 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
@@ -37,7 +35,6 @@ AI & Machine Learning Engineer specializing in NLP,<br>LLM applications, and end
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-```
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=creative-kalfan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
